@@ -1,0 +1,7 @@
+#:D:\Dev\Freedom\Source\Freedom.MeuQueijo.WebApi\Freedom.MeuQueijo.WebApi.xproj
+D:\Dev\Freedom\Source\Freedom.MeuQueijo.WebApi\Freedom.MeuQueijo.WebApi.xproj|D:\Dev\Freedom\Source\Freedom.Domain\Freedom.Domain.csproj
+D:\Dev\Freedom\Source\Freedom.MeuQueijo.WebApi\Freedom.MeuQueijo.WebApi.xproj|D:\Dev\Freedom\Source\Freedom.Infrastructure.DataAccess\Freedom.Infrastructure.DataAccess.csproj
+D:\Dev\Freedom\Source\Freedom.Domain\Freedom.Domain.csproj|D:\Dev\Freedom\Source\Freedom.Domain.Core\Freedom.Domain.Core.csproj
+D:\Dev\Freedom\Source\Freedom.Infrastructure.DataAccess\Freedom.Infrastructure.DataAccess.csproj|D:\Dev\Freedom\Source\Freedom.Domain.Core\Freedom.Domain.Core.csproj
+D:\Dev\Freedom\Source\Freedom.Infrastructure.DataAccess\Freedom.Infrastructure.DataAccess.csproj|D:\Dev\Freedom\Source\Freedom.Domain\Freedom.Domain.csproj
+D:\Dev\Freedom\Source\Freedom.Infrastructure.DataAccess\Freedom.Infrastructure.DataAccess.csproj|D:\Dev\Freedom\Source\Freedom.Labs\Freedom.Labs.csproj
